@@ -1,3 +1,7 @@
+# A Twitter clone using react.js
+
+A clone app using react.js and deployed on google firebase.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
